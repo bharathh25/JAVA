@@ -8,7 +8,6 @@ class Instance2Runner{
 		System.out.println("Number of coins :"+rupee.noOfCoins);
 		System.out.println("Number of notes :"+rupee.noOfNotes);
 		System.out.println("Total Money :"+rupee.TotalMoney);
-		//System.out.println("Number of coins :"+ref1);
 		
 		System.out.println("Stopping Rupee in main");
 		
@@ -67,6 +66,7 @@ class Instance2Runner{
 		
 		System.out.println("Stopping CabCompany in main");
 		
+		System.out.println("------------------");
 		
 		System.out.println("Starting BMTC in main");
 		
@@ -77,6 +77,7 @@ class Instance2Runner{
 		
 		System.out.println("Stopping BMTC in main");
 		
+		System.out.println("------------------");
 		
 		System.out.println("Starting FoodDeliveryCompany in main");
 		
