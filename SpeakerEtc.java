@@ -131,9 +131,6 @@ class Paper{
 
 
 
-
-
-
 /*Speaker : brand,size,cost,output
 Rocket: country,speed,fuelCapacity,noOfThrusters
 Chocolate: brand,price,flavour,size
